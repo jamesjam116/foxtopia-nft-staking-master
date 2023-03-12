@@ -1,0 +1,35 @@
+// .wallet-adapter-button {
+//     background-color: transparent !important;
+//     font-family: $font-main !important;
+//     text-transform: uppercase;
+//     border: 2px solid #fff !important;
+//     font-size: 14px !important;
+//     padding: 7px 9px !important;
+//     height: 36px !important;
+// }
+// .wallet-adapter-modal-list .wallet-adapter-button {
+//     border-color: transparent !important;
+// }
+.wallet-adapter-button.wallet-adapter-button-trigger {
+    background: linear-gradient(90deg, #004af9 0%, #db00ff 100%) !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    border-radius: 4px !important;
+    font-family: $font-main !important;
+}
+.goto-staking {
+    background: linear-gradient(90deg, #004af9 0%, #db00ff 100%) !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    font-weight: 500;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.MuiDialog-paper {
+    background-color: #0f172a !important;
+    border: 2px solid #db00ff;
+    padding: 20px;
+    border-radius: 12px !important;
+}

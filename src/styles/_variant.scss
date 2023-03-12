@@ -1,0 +1,11 @@
+$font-main: "Poppins";
+$font-second: "Kulim Park";
+$back-color: #000;
+$primary-color: #3c23cd;
+$card-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.5);
+
+* {
+    font-family: $font-main;
+}
+
+$gradient-1: linear-gradient(120.66deg, #7e18ff 0%, #db00ff 100%);
