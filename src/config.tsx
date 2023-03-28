@@ -6,7 +6,6 @@ export const NETWORK = "mainnet-beta";
 export const SOLANA_RPC =
   "https://blue-patient-thunder.solana-mainnet.quiknode.pro/71df344b7faca0a88bc82476e5d3ac772102554e/";
 // export const SOLANA_RPC = "https://api.mainnet-beta.solana.com";
-// Solscan API URL for confirmation of transaction
 export const SOLSCAN_API = "https://public-api.solscan.io/transaction/";
 
 export const FOXTOPIA_GENESIS_CREATOR_ADDRESS =
