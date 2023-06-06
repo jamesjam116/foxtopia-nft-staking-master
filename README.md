@@ -31,7 +31,7 @@ yarn [install]
 export const NETWORK = "mainnet-beta";
 //Solana RPC URL
 export const SOLANA_RPC = "https://a2-mind-prd-api.azurewebsites.net/rpc";
-// Solscan API URL for confirmation of transaction
+
 export const SOLSCAN_API = "https://public-api.solscan.io/transaction/";
 export const GLOBAL_AUTHORITY_SEED = "global-authority";
 
