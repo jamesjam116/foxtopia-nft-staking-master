@@ -23,7 +23,6 @@ import {
   getGlobalInfo,
   getGlobalState,
   getUserDualPoolState,
-  getUserPoolState,
 } from "../contexts/transaction";
 import { DualFetchedData, FOXIE_TOKEN_DECIMAL } from "../contexts/types";
 import { solConnection } from "../contexts/utils";
